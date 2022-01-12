@@ -6,6 +6,6 @@
 "periods": ["ancient", "early modern", "modern", "contemporary"],
 "regions": ["Asia", "Europe", "North America"],
 "styles": ["cultural", "social", "music", "diaspora"],
-"picture": "docs/images/hazel.jpg.jpg",
+"picture": "images/hazel.jpg.jpg",
 "blurb": "../markdown-files/hazel.md"
 }
