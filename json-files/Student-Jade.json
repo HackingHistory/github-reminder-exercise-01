@@ -6,6 +6,6 @@
  "periods": ["modern", "contemporary"],
  "regions": ["Asia", "Europe", "Africa", "North America", "South/Central America", "Oceania"],
  "styles": ["political", "cultural", "social", "intellectual", "queer", "colonial", "gender", "sexuality"],
- "blurb": "../markdown-files/your-markdown-file.md",
+ "blurb": "../markdown-files/jade.md",
  "picture": "./images/jade.JPG"
 }
