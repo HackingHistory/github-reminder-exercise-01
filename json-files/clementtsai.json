@@ -1,0 +1,11 @@
+{
+"name": "Clement Tsai",
+"email": "clement.tsai@mail.utoronto.ca",
+"github": "ClementTsai",
+"techskills": 3,
+"periods": ["ancient", "medieval", "early modern", "modern", "contemporary"],
+"regions": ["Asia", "Europe", "North America"],
+"styles": ["political", "cultural", "social", "intellectual", "economic", "military"],
+"picture": "file:///Users/clement/Downloads/ClementTsai-min.jpg",
+"blurb": "../markdown-files/Clement.md"
+}
