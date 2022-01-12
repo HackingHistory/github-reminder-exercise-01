@@ -5,6 +5,5 @@
 "periods": ["modern", "contemporary"],
 "regions": ["Asia", "Europe", "Africa", "North America", "South/Central America", "Oceania"],
 "styles": ["political", "cultural", "social", "intellectual", "queer", "colonial", "gender", "sexuality"],
-"picture": "..https://github.com/Jb-zn/github-reminder-exercise-01/commit/bcbbf85892c5c09b7858104a86f9608db54d7f43#diff-00d24fb491a9ff1b687ef5d1e3cf98f2e35c0295435397830b193808dd32fee3",
-"blurb": "../markdown-files/jade.md"
+"picture": "..doc/images.jade.JPG"
 }
