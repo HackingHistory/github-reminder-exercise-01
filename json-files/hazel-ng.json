@@ -5,7 +5,7 @@
 "techskills": 2,
 "periods": ["ancient", "early modern", "modern", "contemporary"],
 "regions": ["Asia", "Europe", "North America"],
-"styles": ["cultural", "social", "music"],
+"styles": ["cultural", "social", "music", "diaspora"],
 "picture": "../images/your-image.jpg",
 "blurb": "../markdown-files/hazel.md"
 }
