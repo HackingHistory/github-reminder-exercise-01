@@ -1,0 +1,11 @@
+{
+"name": "Armin Safavi",
+"email": "armin.safavinaini@mail.utoronto.ca",
+"github": "armsafna",
+"techskills": 1,
+"periods": ["post-war"],
+"regions": ["Middle East"],
+"styles": ["political", "social", "intellectual", "economic"],
+"picture": "../images/Armin.jpg",
+"blurb": "../markdown-files/Armin.md"
+}
