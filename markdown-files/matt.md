@@ -1,1 +1,1 @@
-I'm a historian of science and technology studying mostly the nineteenth and twentieth centuries, who is also interested in environmental history & would like to start teaching world history i n the future.  A U of T I'm mostly known for teaching digital humanities.  b
+I'm a historian of science and technology studying mostly the nineteenth and twentieth centuries, who is also interested in environmental history & would like to start teaching world history in the future.  At U of T I'm mostly known for teaching digital humanities. 
