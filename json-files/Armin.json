@@ -6,6 +6,6 @@
 "periods": ["post-war"],
 "regions": ["Middle East"],
 "styles": ["political", "social", "intellectual", "economic"],
-"picture": "C:\Users\gener\Pictures\121682630_359766738509350_2027310216530415992_n.jpg",
+"picture": "../images/Armin.jpg",
 "blurb": "../markdown-files/Armin.md"
 }
