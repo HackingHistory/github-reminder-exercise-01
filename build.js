@@ -8,7 +8,7 @@ const path = require('path'),
 
 // some paths
 // json directory
-const jsonDir = path.join("", "json-files"),
+const jsonDir = path.join("", "json-files")
       // images dir
       // imagesDir = path.join("", "images")
       // html start
@@ -47,7 +47,7 @@ let students = gatherJSON(jsonDir),
     //cards = students.map(s => makeCard(s)).join("\n");
 console.log(updated)
 fs.writeFileSync("docs/allstudents.json", JSON.stringify(updated))
-<
+
 // moved images to docs for simplicity
 // fs.readdirSync("images").forEach(i => fs.copyFile(path.join(imagesDir, i), path.join("docs/images", i), () => {}))
 // console.log(makeCard(JSON.parse(fs.readFileSync('json-files/matt.json'))))
