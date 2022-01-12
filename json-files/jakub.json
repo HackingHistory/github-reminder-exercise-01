@@ -1,0 +1,11 @@
+{
+  "name": "Jakub Berkowicz",
+  "email": "jakub.berkowicz@mail.utoronto.ca",
+  "github": "mankicky3",
+  "techskills": 2.5,
+  "periods": ["Early Modern", "Modern", "Contemporary"],
+  "regions": ["Europe","North America"],
+  "styles": ["Political", "Military", "Diplomatic", "Economic"],
+  "picture": "images/jakub.jpg",
+  "blurb": "../markdown-files/jakub.md"
+}
