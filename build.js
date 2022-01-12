@@ -81,7 +81,7 @@ function makeCard (s) {
 let students = gatherJSON(jsonDir),
     cards = students.map(s => makeCard(s)).join("\n");
 
-fs.writeFileSync("dist/index.html", start + cards + end)
-fs.readdirSync("images").forEach(i => fs.copyFile(path.join(imagesDir, i), path.join("dist/images", i), () => {}))
+fs.writeFileSync("docs/index.html", start + cards + end)
+fs.readdirSync("images").forEach(i => fs.copyFile(path.join(imagesDir, i), path.join("docs/images", i), () => {}))
 // console.log(makeCard(JSON.parse(fs.readFileSync('json-files/matt.json'))))
 // console.log(cards.join("\n"))
