@@ -6,6 +6,6 @@
 "periods": ["ancient", "medieval", "early modern", "modern", "contemporary"],
 "regions": ["Asia", "Europe", "North America"],
 "styles": ["political", "cultural", "social", "intellectual", "economic", "military"],
-"picture": "../images/ClementTsai-min.jpg",
+"picture": "images/ClementTsai-min.jpg",
 "blurb": "../markdown-files/Clement.md"
 }
