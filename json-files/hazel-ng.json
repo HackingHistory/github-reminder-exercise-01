@@ -6,6 +6,6 @@
 "periods": ["ancient", "early modern", "modern", "contemporary"],
 "regions": ["Asia", "Europe", "North America"],
 "styles": ["cultural", "social", "music"],
-"picture": "C:\Users\lwl75\OneDrive\Documents\Cats\Photos",
+"picture": "../images/your-image.jpg",
 "blurb": "../markdown-files/hazel.md"
 }
