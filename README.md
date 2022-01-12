@@ -10,7 +10,7 @@ In this in-class exercise, each of you will do the following:
 - create a github account and login
 - using the built-in editor on the github website, add a new **json** file to the directory `json-files` (see below for deta
 - using the built-in editor on the github website, add a new **markdown** file to the directory `markdown-files`
-- optionally upload a picture of yourself to the directory `images`
+- optionally upload a picture of yourself to the directory `docs/images`
 
 Details below.
 
@@ -42,7 +42,7 @@ We will start by ubilding a simple [JSON data structure]{(https://www.nylas.com/
 - `github` is your github ID 
 - for `techskills`, rate yourself between 1 star (no skills at all) and 5 stars (ready for an industry job). 
 - for `periods`, `regions`, and `styles`, delete all the entries that you don't already have some interest/experience in. If you think I've missed something (e.g., maybe you thnk `women's` or `science` or `race`  should be a top-level category in `styles`), then simply add the missing element in to the appropriate list.  Be sure to **separate elements by commas**, and **surround individual names in double quotes**, and also make sure your new element is **inside the `[]` brackets**. 
-- `picture` should be the path to your picture -- either a [relative URL](https://www.w3.org/TR/WD-html40-970917/htmlweb.html#h-5.1.2) to an image in the `images` directory, or a full URL to a picture on the web 
+- `picture` should be the path to your picture -- either a [relative URL](https://www.w3.org/TR/WD-html40-970917/htmlweb.html#h-5.1.2) (starting with either `./images` or just `images`) to an image in the `images` directory, or a full URL to a picture on the web 
 - `blurb` is the relative path to your markdown file, which should be named either `yourfirstname.md` or `yourfirstname-yourlastname.md`. 
 
 You create the file by navigating to the `json-files/` directory and clicking the `Add File` button near the top right, then choosing `Create new file` from the drop-down menu. We'll go over the full creation method in class. 

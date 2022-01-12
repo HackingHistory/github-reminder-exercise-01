@@ -4,7 +4,8 @@
   "description": "Git and Github refresher for Hacking History students",
   "main": " ",
   "scripts": {
-    "test": " "
+    "test": " ",
+    "build": "node build.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,9 @@
   },
   "homepage": "https://github.com/HackingHistory/github-reminder-exercise-01#readme",
   "dependencies": {
-    "marked": "^4.0.9",
-    "url-exists": "^1.0.3"
+    "marked": "^4.0.9"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.0"
   }
 }

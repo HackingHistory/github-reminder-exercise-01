@@ -6,6 +6,6 @@
   "periods": ["early modern", "modern", "contemporary"],
   "regions": ["Europe","North America"],
   "styles": ["political", "cultural", "social", "intellectual"],
-  "picture": "../images/matt.jpg",
+  "picture": "images/matt.jpg",
   "blurb": "../markdown-files/matt.md"
 }
