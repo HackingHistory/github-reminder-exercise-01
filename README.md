@@ -1,5 +1,5 @@
 # In-Class exercise: Github, Markdown, JSON
-The intended audience for this class is graduates of HIS393 or other courses making use of GitHub & teachingg basic web development skills. However, I recognize that not all students will have acquired all the necessary skills before class. So, let's start with a crash course in three areas:
+The intended audience for this class is graduates of Hacking History or other courses making use of GitHub & teaching basic web development skills. However, I recognize that not all students will have acquired all the necessary skills before class. So, let's start with a crash course in three areas:
 
 - using git and GitHub
 - JSON data structures
