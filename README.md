@@ -21,7 +21,7 @@ All modern code development uses Version Control software; all but a tiny percen
 Once you have an account, you may want to [read the quickstart documentation](https://docs.github.com/en/get-started/quickstart) on github to get an introduction to some basic concepts. However, you can do this exercise in class without much deep understanding of how things work. Simply follow the instructions below. 
 
 ## Your Data: JSON
-We will start by ubilding a simple [JSON data structure]{(https://www.nylas.com/blog/the-complete-guide-to-working-with-json/) to represent each member of the class. I've already added one for myself, and you're welcome to look at `matt.json` in the `json-files` directory. Alternatively, you can simply copy the JSON below and amend it as appropriate:
+We will start by building a simple [JSON data structure]{(https://www.nylas.com/blog/the-complete-guide-to-working-with-json/) to represent each member of the class. I've already added one for myself, and you're welcome to look at `matt.json` in the `json-files` directory. Alternatively, you can simply copy the JSON below and amend it as appropriate:
 
 ``` json
 {
