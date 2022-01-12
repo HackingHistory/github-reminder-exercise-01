@@ -1,9 +1,11 @@
-"name": "Jade",
-"email": "jade.nelson@mail.utoronto.ca",
-"github": "Jb.zn",
-"techskills": 1,
-"periods": ["modern", "contemporary"],
-"regions": ["Asia", "Europe", "Africa", "North America", "South/Central America", "Oceania"],
-"styles": ["political", "cultural", "social", "intellectual", "queer", "colonial", "gender", "sexuality"],
-"blurb": "../markdown-files/your-markdown-file.md"
-"picture": "./images/jade.JPG"
+{
+  "name": "Jade",
+ "email": "jade.nelson@mail.utoronto.ca",
+ "github": "Jb.zn",
+ "techskills": 1,
+ "periods": ["modern", "contemporary"],
+ "regions": ["Asia", "Europe", "Africa", "North America", "South/Central America", "Oceania"],
+ "styles": ["political", "cultural", "social", "intellectual", "queer", "colonial", "gender", "sexuality"],
+ "blurb": "../markdown-files/your-markdown-file.md",
+ "picture": "./images/jade.JPG"
+}

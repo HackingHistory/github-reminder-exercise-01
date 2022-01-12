@@ -2,18 +2,13 @@
 
 const path = require('path'),
       fs=require('fs'),
-      // bring this back later if we want
+      // bring this back later if we want -- just areminder
       // urlExists = require('url-exists'),
       marked = require('marked');
 
 // some paths
 // json directory
 const jsonDir = path.join("", "json-files")
-      // images dir
-      // imagesDir = path.join("", "images")
-      // html start
-      // start = fs.readFileSync("start.html", {encoding:'utf8', flag:'r'}),
-      // end = fs.readFileSync("end.html", {encoding:'utf8', flag:'r'})
 
 // helper function: test if URL exists
 // not using for now -- reducing dependency chain
@@ -44,11 +39,6 @@ function parseBlurb (file) {
 
 let students = gatherJSON(jsonDir),
     updated = students.map (s => {s.blurb = parseBlurb(s.blurb); return s}) 
-    //cards = students.map(s => makeCard(s)).join("\n");
-console.log(updated)
+
 fs.writeFileSync("docs/allstudents.json", JSON.stringify(updated))
 
-// moved images to docs for simplicity
-// fs.readdirSync("images").forEach(i => fs.copyFile(path.join(imagesDir, i), path.join("docs/images", i), () => {}))
-// console.log(makeCard(JSON.parse(fs.readFileSync('json-files/matt.json'))))
-// console.log(cards.join("\n"))
