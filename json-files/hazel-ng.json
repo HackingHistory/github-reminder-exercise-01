@@ -4,8 +4,8 @@
 "github": "hazelkatnut",
 "techskills": 2,
 "periods": ["ancient", "early modern", "modern", "contemporary"],
-"regions": ["Asia", "Europe", "North America"],
+"regions": ["East Asia", "Europe", "North America"],
 "styles": ["cultural", "social", "music", "diaspora"],
-"picture": "images/hazel.jpg.jpg",
+"picture": "images/hazelng.jpg", 
 "blurb": "../markdown-files/hazel.md"
 }
