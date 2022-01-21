@@ -7,5 +7,5 @@
 "regions": ["Europe", "North America"],
 "styles": ["political", "diplomatic", "cultural", "social", "art", "intellectual", "economic"],
 "picture": "../images/your-image.jpg",
-"blurb": "../markdown-files/your-markdown-file.md"
+"blurb": "../markdown-files/michael.md"
 }
