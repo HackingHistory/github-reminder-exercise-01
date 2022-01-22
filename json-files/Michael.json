@@ -6,6 +6,6 @@
 "periods": ["ancient", "medieval", "early modern", "modern", "contemporary"],
 "regions": ["Europe", "North America"],
 "styles": ["political", "diplomatic", "cultural", "social", "art", "intellectual", "economic"],
-"picture": "../images/IMG_3523.jpg",
+"picture": "./images/IMG_3523.JPG",
 "blurb": "../markdown-files/michael.md"
 }
