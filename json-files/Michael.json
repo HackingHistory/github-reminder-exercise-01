@@ -1,0 +1,11 @@
+{
+"name": "Michael Demone",
+"email": "michael.demone@mail.utoronto.ca",
+"github": "mademone",
+"techskills": 3,
+"periods": ["ancient", "medieval", "early modern", "modern", "contemporary"],
+"regions": ["Europe", "North America"],
+"styles": ["political", "diplomatic", "cultural", "social", "art", "intellectual", "economic"],
+"picture": "./images/IMG_3523.JPG",
+"blurb": "../markdown-files/michael.md"
+}
